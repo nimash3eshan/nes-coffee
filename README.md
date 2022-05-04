@@ -1,3 +1,3 @@
 # nes-coffe
 
-Web Technologies Lab assignment 2
+Web Technologies academic Lab assignment 2
